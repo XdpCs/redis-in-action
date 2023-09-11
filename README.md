@@ -1,2 +1,3 @@
 # redis-in-action
-redis in action demo
+
+Example code from redis in action(redis实战).
