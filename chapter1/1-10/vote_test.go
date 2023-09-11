@@ -2,9 +2,10 @@ package vote
 
 import (
 	"context"
-	"github.com/redis/go-redis/v9"
 	"strconv"
 	"testing"
+
+	"github.com/redis/go-redis/v9"
 )
 
 func TestPostArticle(t *testing.T) {
